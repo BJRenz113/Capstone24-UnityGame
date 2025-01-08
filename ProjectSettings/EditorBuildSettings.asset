@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainHub.unity
+    guid: b3bf5a8a393dba447899d5ee1ae43314
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Room_1.unity
+    guid: 51f879b2056f51041b0ced97543545cd
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Room_2.unity
+    guid: 96ba9a0507e1ddf43b1e4f0bce60d571
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Room_3.unity
+    guid: 09f6c2bc6e7310040abf239b1b7953bc
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Room_5.unity
+    guid: c27f106f94052be4eb2d09d49fe4d330
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Room_6.unity
+    guid: 1d45fe142a1b5de47a425dca54bf2113
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Room_7.unity
+    guid: 4dfea330b3bebaa48ba3232145cd62ef
+  - enabled: 1
+    path: Assets/Scenes/Treachery/Room_1.unity
+    guid: b74f47548130b5144a7c97f2c5377d9d
+  - enabled: 1
+    path: Assets/Scenes/Treachery/Room_2.unity
+    guid: 27fc638b116be434bb0109d033b935dc
+  - enabled: 1
+    path: Assets/Scenes/Treachery/Room_3.unity
+    guid: 0090a228cbc47194d95e24019b816b94
+  - enabled: 1
+    path: Assets/Scenes/Treachery/Room_4.unity
+    guid: fc902ca73f98ca141a4a9b00305f62ea
+  - enabled: 1
+    path: Assets/Scenes/Treachery/Room_5.unity
+    guid: 8296025efa157d64e8d5e8f9f22d481d
+  - enabled: 1
+    path: Assets/Scenes/Treachery/Room_6.unity
+    guid: a0ce5ffc18c180a459efa6db9c52ddd9
+  - enabled: 1
+    path: Assets/Scenes/Wrath/Floor_ 1.unity
+    guid: 7826a4ba1f3287d469312e497263f2c9
+  - enabled: 1
+    path: Assets/Scenes/Wrath/Floor_ 2.unity
+    guid: bf2d081e5b1ec3f46bfc000032aa9572
+  - enabled: 1
+    path: Assets/Scenes/Wrath/Floor_ 3.unity
+    guid: c7abdc4d67048564695e502892a261d5
+  - enabled: 1
+    path: Assets/Scenes/Wrath/Floor_ 4.unity
+    guid: 3d1f73d52f8b33a4d80d217b5acd30ad
+  - enabled: 1
+    path: Assets/Scenes/Wrath/Floor_ 5.unity
+    guid: 68d416362c6e3d84887e2a1bc20005aa
+  - enabled: 1
+    path: Assets/Scenes/Wrath/Floor_ 6.unity
+    guid: b99b22e03edebd7478ac89064d6a18fd
+  - enabled: 1
+    path: Assets/Scenes/Greed/Floor_1.unity
+    guid: fb04a249afa3c774f8418d1cca9046a0
+  - enabled: 1
+    path: Assets/Scenes/Greed/Floor_2.unity
+    guid: 85c03e77dc81ec94a91bed59ef6ed54a
+  - enabled: 1
+    path: Assets/Scenes/Greed/Floor_3.unity
+    guid: 65eb45c05f4a48141ba52d78777dc37d
+  - enabled: 1
+    path: Assets/Scenes/Greed/Floor_4.unity
+    guid: 4248880b43458074499d2c2ba81d169b
+  - enabled: 1
+    path: Assets/Scenes/Greed/Floor_5.unity
+    guid: 9cd4e1997300349418707ff8eee98958
+  - enabled: 1
+    path: Assets/Scenes/Greed/Floor_6.unity
+    guid: bbedf2b27360d1448a7e14a27cf25cf7
+  - enabled: 1
+    path: Assets/Scenes/Heresy/Floor_ 1.unity
+    guid: 0bf2c51d195a99348ae9301badca8641
+  - enabled: 1
+    path: Assets/Scenes/Heresy/Floor_ 2.unity
+    guid: 82f2028aeb7975640bffd7a9c3a631a7
+  - enabled: 1
+    path: Assets/Scenes/Heresy/Floor_ 3.unity
+    guid: 3f9f65f01a377b74bb3dfcacd3e9c500
+  - enabled: 1
+    path: Assets/Scenes/Heresy/Floor_ 4.unity
+    guid: 7e39012b044832c45ba5fba55792313b
+  - enabled: 1
+    path: Assets/Scenes/Heresy/Floor_ 5.unity
+    guid: c1a05fda0cd801445877668ffa2742d6
+  - enabled: 1
+    path: Assets/Scenes/Heresy/Floor_ 6.unity
+    guid: a801a032f8dec1446954e121c0e16e35
+  - enabled: 1
+    path: Assets/Scenes/Violence/Floor_ 1.unity
+    guid: 3fd453cf8b59bc249907e4889674a5f3
+  - enabled: 1
+    path: Assets/Scenes/Violence/Floor_ 2.unity
+    guid: 06e60a543cb354948b6ef0ba057051a1
+  - enabled: 1
+    path: Assets/Scenes/Violence/Floor_ 3.unity
+    guid: ba68122ae11d0184baccbe5dd0af11c2
+  - enabled: 1
+    path: Assets/Scenes/Violence/Floor_ 4.unity
+    guid: d61bf60a906be7043a01c1732fdcb859
+  - enabled: 1
+    path: Assets/Scenes/Violence/Floor_ 5.unity
+    guid: 78a1e24dc4c87cb40b1da6e02e26e801
+  - enabled: 1
+    path: Assets/Scenes/Violence/Floor_ 6.unity
+    guid: 25d70fc43a4c51b45808251d7ee55c07
+  - enabled: 1
+    path: Assets/Scenes/Gluttony/Boss.unity
+    guid: 692faa8cd25f32548bb2f62de6eada67
+  - enabled: 1
+    path: Assets/Scenes/Boss Rooms/TreacheryBossRoom.unity
+    guid: a4cf28fba85fc8e439169df5e26e4ff7
+  - enabled: 1
+    path: Assets/Scenes/Boss Rooms/WrathBossRoom.unity
+    guid: 672a096ac8404bb4ea4d4107aebc4dd0
+  - enabled: 1
+    path: Assets/Scenes/Greed/AGreedBossRoom.unity
+    guid: 4226ee9bb48be904b87f36e60856a0ed
+  - enabled: 1
+    path: Assets/Scenes/Boss Rooms/HeresyBossRoom.unity
+    guid: 780a3390ab54c4e4ab18bdbab8f42a68
+  - enabled: 1
+    path: Assets/Scenes/Boss Rooms/ViolenceBossRoom.unity
+    guid: 76af27579a6535c4c9a3c104fae85eb6
+  m_configObjects: {}

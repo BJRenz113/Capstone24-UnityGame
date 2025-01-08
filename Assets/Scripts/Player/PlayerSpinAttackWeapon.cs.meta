@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ca9740ab96ccfee4193af1773d555d39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spinAttackSound: {fileID: 8300000, guid: cba13216644e57f48b9ea3ca270ba829, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
